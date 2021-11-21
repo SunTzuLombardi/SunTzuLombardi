@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hey 👋, This is Daniel Maxwell Smith
+### Hey there 👋, This is Daniel M. Smith
 [![Gmail Badge](https://img.shields.io/badge/-danielmsmith1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielmsmith1@gmail.com)](mailto:danielmsmith1@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-SunTzuLombardi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SunTzuLombardi/)](https://www.linkedin.com/in/SunTzuLombardi/) [![Github Badge](https://img.shields.io/badge/-SunTzuLombardi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SunTzuLombardi/)](https://www.github.com/SunTzuLombardi/) [![Twitter Badge](https://img.shields.io/badge/-SunTzuLombardi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/SunTzuLombardi/)](https://www.twitter.com/SunTzuLombardi/) <p align='left'>I am a Data Scientist, Data Analyst, Systems Engineer skilled in Python, SQL, Machine Learning, Optimization, and modeling. I harness data visualization techniques to present results to stakeholders in order to tell the story the data is longing to tell. My past work experience as a Java Developer, Linux System Admin and IT Operations Manager has enabled a wider viewpoint.  I possess a logical approach and great problem-solving skills, perform well in high-pressure situations, and thrive in a team-oriented system by enabling my teammates. I am interested in both Data Science and Data Analytics and solving problems.
 
