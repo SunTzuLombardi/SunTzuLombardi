@@ -47,7 +47,7 @@ Data The Numbers Yearly Box Office revenue 11 years Weekly Box Office Revenue 11
 Methods Created Actor Influence-formula Created Director Influence-formula Classified each move in a Franchise or Not Each movie fit to Bass Model for 3 coefficients M (market size, initially set to 1,000,000), p (coefficient of innovation, initially set to 0.003) and q (coefficient of imitation, initially set to 0.5).<br>
 
 ### Tableau Analysis of Data Science Cohort
-![CohortView](https://public.tableau.com/views/FICohort/MapView?:language=en-US&:display_count=n&:origin=viz_share_link)
+![CohortView](https://github.com/SunTzuLombardi/TableauImages/blob/main/MapView.png?raw=true)
 
 
 ## Some of my Github Stats
