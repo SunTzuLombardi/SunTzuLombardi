@@ -12,6 +12,44 @@ Technical Skills:
 • Data Visualization: Matplotlib, Seaborn, Tableau
 • Environments: Google Colab, Jupyter Notebook
 • Data Science Methods: Gathering, Cleaning, Scrubbing, Exploration, Mining, Modeling, Visualization</p>
+## Some of my Projects
+### [Airline Flights Delay Classification](https://github.com/SunTzuLombardi/FlightsClassification)
+This project encapsulates using Classification with Machine Learning for modeling 2018 Domestic Airline Flight Delays.
+We performed Inferential Analysis of 7M+ recs looking at Airlines, Destinations of Flights, Delays, Times, We then reduced the Data set to just the Top 5 Airlines by number of flights. We reduced the number of Origins and Destinations to the top 30 instead of the 358.
+We also performed Classification Analysis with Machine Learning Algorithms Logistic Regression, Decision Trees, Random Forests, XGBoost
+With GridSearch narrowing down the most optimal Hyperparameters to predict delayed flights and assess the strength and relationship and importance of the different features and their relation to delayed flight.
+![10AircraftLate.png](https://github.com/SunTzuLombardi/FlightsClassification/raw/main/images/10AircraftLate.png?raw=true)<br>
+### [Movie Recommendation Project](https://github.com/SunTzuLombardi/RecomendationProj)
+This project implements a Recommendation System for Movies.
+We performed KFold Cross Validation on the movie ratings with Matrix reduction algorithms and optimized with GridSearch. We were looking for minimal errors choosing RMSE as our main metric and also time it takes to fit the moved as the matric will need to run to re fit after a user updates their ratings.
+We used a Collaborative Filtering Model Based approach for this first implementation
+![4_FilmWizard.png](https://github.com/SunTzuLombardi/RecomendationProj/raw/main/images/4_FilmWizard.png)<br>
+
+### [Home Regression](https://github.com/SunTzuLombardi/HomeRegression)
+This project encapsulates using multiple regression for modeling home sales data.
+We performed Inferential Analysis on over 21,000 home sales from Kings County and by removing any data with a outliers which had a z score larger than 3. In a normal distribution 99% or all data falls with a z score of under 3.
+We also performed a multiple regression analysis which allows us to build a pricing model and assess the strength and relationship and importance of the different features and their relation to an estimate price of a property.
+
+A new feature we created was distance from four major employment locations in Kings County.
+Using the haversine formlula mentioned in the following blogs as reference:
+![kingsEmployers.png](https://github.com/SunTzuLombardi/HomeRegression/raw/main/images/kingsEmployers.png?raw=true)
+We also created the district feature to divid the county into 10 separate districts based on zipcodes.
+![districts.png](https://github.com/SunTzuLombardi/HomeRegression/raw/main/images/districts.png?raw=true)
+
+### [Microsoft Movie Studio Recommendation](https://github.com/SunTzuLombardi/MovieStudioProject)
+This project analyzes movie data in order to create a portfolio strategy for entrance into the Entertainment industry.
+
+### [Domestic Box Office Regression](https://github.com/SunTzuLombardi/MovieRegression)
+Regression Analysis for Domestic Box Office with the Bass Diffusion Model and Monte Carlo Simulation
+
+Data The Numbers Yearly Box Office revenue 11 years Weekly Box Office Revenue 11 years Distributor, Genre, Source, Creative Type, Inflation Adjusted Domestic Bo IMDB Daily Dumps 8 mil records movies,principals, Actors actresses, Directors
+
+Methods Created Actor Influence-formula Created Director Influence-formula Classified each move in a Franchise or Not Each movie fit to Bass Model for 3 coefficients M (market size, initially set to 1,000,000), p (coefficient of innovation, initially set to 0.003) and q (coefficient of imitation, initially set to 0.5).<br>
+
+### Tableau Analysis of Data Science Cohort
+![CohortView](https://public.tableau.com/views/FICohort/MapView?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SunTzuLombardi alt=SunTzuLombardi /> </p>
 
